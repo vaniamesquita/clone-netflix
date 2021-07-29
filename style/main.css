@@ -113,8 +113,8 @@ body {
 
 .filme-principal {
   font-size: 1rem;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
-    url("/img/capa2.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
+    url("img/capa2.jpg");
 
   height: 450px;
   background-size: cover;
@@ -244,6 +244,19 @@ button .fas {
   background: #6d6d6eb3;
 }
 
+footer {
+  padding-top: 10px;
+}
+footer p {
+  background: var(--vermelho);
+  width: 100vw;
+  height: 30px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* RESPONSIVIDADE */
 /* 700 PX */
 @media (max-width: 700px) {
@@ -274,8 +287,11 @@ button .fas {
 
   .filme-principal {
     font-size: 1rem;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
-      url("/img/capa_responsive.jpg");
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5) 100%
+      ),
+      url("img/capa_responsive.jpg");
 
     height: 450px;
     background-size: cover;
@@ -311,7 +327,7 @@ button .fas {
   }
 
   .header-left a {
-    padding: 15px;
+    padding: 10px;
     font-size: 0.85rem;
   }
 
@@ -367,8 +383,11 @@ button .fas {
 
   .filme-principal {
     font-size: 1rem;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
-      url("/img/capa-mobile.jpg");
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5) 100%
+      ),
+      url("img/capa-mobile.jpg");
 
     height: 400px;
     background-size: cover;
