@@ -113,7 +113,7 @@ body {
 
 .filme-principal {
   font-size: 1rem;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
     url("img/capa2.jpg");
 
   height: 450px;
@@ -274,7 +274,7 @@ button .fas {
 
   .filme-principal {
     font-size: 1rem;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
       url("img/capa_responsive.jpg");
 
     height: 450px;
@@ -367,7 +367,7 @@ button .fas {
 
   .filme-principal {
     font-size: 1rem;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
       url("img/capa-mobile.jpg");
 
     height: 400px;
