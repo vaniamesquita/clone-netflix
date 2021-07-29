@@ -114,7 +114,7 @@ body {
 .filme-principal {
   font-size: 1rem;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
-    url("/img/capa2.jpg");
+    url("/img/capa-naruto2.jpg");
 
   height: 450px;
   background-size: cover;
@@ -292,7 +292,7 @@ footer p {
         rgba(0, 0, 0, 0.5),
         rgba(0, 0, 0, 0.5) 100%
       ),
-      url("img/capa_responsive.jpg");
+      url("/img/capa-naruto2-responsivo.jpg");
 
     height: 450px;
     background-size: cover;
@@ -388,7 +388,7 @@ footer p {
         rgba(0, 0, 0, 0.5),
         rgba(0, 0, 0, 0.5) 100%
       ),
-      url("img/capa-mobile.jpg");
+      url("/img/capa-naruto2-mobile.jpg");
 
     height: 400px;
     background-size: cover;
