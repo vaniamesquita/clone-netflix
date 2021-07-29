@@ -1,0 +1,417 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;900&display=swap");
+
+:root {
+  --vermelho: #e50914;
+  --preta: #141414;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+a {
+  color: inherit;
+}
+
+body {
+  background: var(--preta);
+  font-family: "Roboto", helvetica, sans-serif;
+  color: white;
+}
+
+/* HEADER */
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 40px;
+}
+
+.logo {
+  height: 33px;
+  width: 115px;
+}
+
+.header-left {
+  display: inline-flex;
+}
+
+.menu-left {
+  display: flex;
+}
+
+.menu-left a {
+  color: grey;
+  padding: 10px;
+  font-size: 0.9rem;
+}
+
+.menu-left a:hover {
+  color: white;
+  cursor: pointer;
+  transition: 0.3s ease-out;
+}
+
+.header-container-left {
+  height: 50px;
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-container-right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header-right svg {
+  color: white;
+  font-weight: bold;
+  width: 25px;
+  height: 25px;
+  margin-right: 20px;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.header-right img {
+  border-radius: 10%;
+  cursor: pointer;
+}
+
+.profile-photo img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+}
+
+/* MAIN */
+
+.main-container {
+  padding: 0 40px;
+}
+
+.titulo {
+  font-size: 45px;
+  margin-top: 10%;
+  margin-bottom: 2%;
+  letter-spacing: 0.1rem;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.filme-principal {
+  font-size: 1rem;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
+    url("/img/capa2.jpg");
+
+  height: 450px;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.sinopse {
+  width: 50%;
+  margin-bottom: 5%;
+  font-weight: 300;
+  line-height: 1.3rem;
+}
+
+.botoes {
+  padding: 0 40px;
+}
+
+.botao-play {
+  background-color: white;
+  border: none;
+  color: black;
+
+  padding: 10px 25px;
+  margin-right: 10px;
+  font-size: 1rem;
+
+  transition: 0.6s ease all;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.botao-info {
+  background-color: #6d6d6eb3;
+  border: none;
+  color: white;
+  font-weight: bold;
+
+  padding: 10px 25px;
+  margin-right: 10px;
+  font-size: 1rem;
+
+  transition: 0.6s ease all;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.botao-play:hover {
+  background-color: #ffffffb3;
+  color: black;
+}
+
+.botao-info:hover {
+  background-color: #6d6d6e99;
+}
+
+button .fas {
+  margin-right: 15px;
+}
+
+.botao-info i,
+.botao-play i {
+  font-size: 20px;
+}
+
+.main-container {
+  width: 70%;
+}
+
+/* CAROUSEL - SLIDE */
+.carrosel-filmes {
+  padding: 0px 40px;
+}
+
+.box-filmes {
+  display: block;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.item {
+  width: 100%;
+  height: 100%;
+}
+
+.item:hover {
+  transform: scale(0.95);
+  box-shadow: 0 0 15px #c6c6c666;
+  transition: 0.3s ease-in-out;
+}
+
+.assistidos {
+  margin: 15px 2px;
+  font-size: 1.5rem;
+}
+
+#botao-anterior,
+#botao-proximo {
+  position: absolute;
+  z-index: 99;
+  bottom: 80px;
+  color: white;
+  background: none;
+  font-size: 100px;
+  border: none;
+  cursor: pointer;
+}
+
+#botao-anterior {
+  left: 25px;
+}
+
+#botao-proximo {
+  right: 25px;
+}
+
+#botao-anterior svg,
+#botao-proximo svg {
+  width: 35px;
+  height: 35px;
+}
+
+.btn svg {
+  background: #6d6d6eb3;
+}
+
+/* RESPONSIVIDADE */
+/* 700 PX */
+@media (max-width: 700px) {
+  .header-container {
+    padding: 25px 40px;
+  }
+
+  .logo {
+    margin-bottom: 15px;
+  }
+
+  .header-container-left {
+    flex-direction: column;
+  }
+
+  .header-right svg {
+    display: none;
+  }
+
+  .botoes {
+    width: 100%;
+    padding: 0 40px;
+  }
+
+  .botao-play {
+    margin-bottom: 10px;
+  }
+
+  .filme-principal {
+    font-size: 1rem;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
+      url("/img/capa_responsive.jpg");
+
+    height: 450px;
+    background-size: cover;
+  }
+}
+
+/* 980PX */
+@media (max-width: 980px) {
+  .sinopse {
+    width: 60%;
+  }
+
+  .assistidos {
+    margin: 15px 2px;
+    font-size: 1rem;
+  }
+}
+
+/* 540PX */
+@media (max-width: 540px) {
+  .header-container,
+  .main-container {
+    padding: 10px 15px;
+  }
+
+  .header-right {
+    display: none;
+  }
+
+  .header-container-left {
+    height: 70px;
+    width: 100%;
+  }
+
+  .header-left a {
+    padding: 15px;
+    font-size: 0.85rem;
+  }
+
+  .titulo {
+    font-size: 30px;
+  }
+  .sinopse {
+    width: 150%;
+    font-size: 0.85rem;
+    line-height: 1rem;
+  }
+
+  .assistidos {
+    margin: 15px 2px;
+    font-size: 1rem;
+  }
+
+  .botoes {
+    margin: 15px auto;
+  }
+
+  .botao-play {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    font-size: 0.9rem;
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+  }
+
+  .botao-info {
+    background-color: #6d6d6eb3;
+    border: none;
+    color: white;
+
+    padding: 10px 20px;
+    font-size: 0.9rem;
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+  }
+
+  button .fas {
+    margin-right: 10px;
+  }
+
+  .botao-info i,
+  .botao-play i {
+    font-size: 15px;
+  }
+
+  .filme-principal {
+    font-size: 1rem;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 100%),
+      url("/img/capa-mobile.jpg");
+
+    height: 400px;
+    background-size: cover;
+  }
+
+  .carrosel-filmes {
+    padding: 0px 15px;
+  }
+
+  .box-filmes {
+    display: block;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+
+  #botao-anterior,
+  #botao-proximo {
+    position: absolute;
+    z-index: 99;
+    bottom: 120px;
+    color: white;
+    background: none;
+
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  #botao-anterior svg,
+  #botao-proximo svg {
+    width: 30px;
+    height: 30px;
+  }
+
+  #botao-anterior {
+    left: 5px;
+  }
+
+  #botao-proximo {
+    right: 5px;
+  }
+
+  .btn svg {
+    background: #6d6d6eb3;
+  }
+}
