@@ -1,5 +1,4 @@
-## Projeto02 - Clone Netflix - Bootcamp HTML Web Developer - DIO 
-<br>
+
 
   <p align="center"> <img src="https://vaniamesquita.me/clone-netflix/img/logo3.png" alt="logo-vaniaflix" width="300"> </p>
 
