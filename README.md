@@ -37,7 +37,7 @@ Irei ainda aprimorar essa página com várias categorias, bem como é a página 
 
 <table align="center">
    <tr>
-    <td valign="top"><img src="img/web.gif"  height="480"> </td>
+    <td valign="top"><img src="img/web.gif"  height="400"> </td>
     
    </tr>
  </table>
