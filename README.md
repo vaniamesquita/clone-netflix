@@ -1,4 +1,5 @@
-# #Projeto02 - Clone Netflix - Bootcamp HTML Web Developer - DIO 
+## Projeto02 - Clone Netflix - Bootcamp HTML Web Developer - DIO 
+<br>
 
   <p align="center"> <img src="https://vaniamesquita.me/clone-netflix/img/logo3.png" alt="logo-vaniaflix" width="300"> </p>
 
@@ -10,10 +11,16 @@
 <p align="center">Projeto 2 do Bootcamp de HTML Web Developer da escola de programação <a href="https://vaniamesquita.me/hora-do-dia/" target="_blank">Digital Innovation One </a></p>
 <br>
 
-### <p align="center"> [Sobre](#sobre) | [Layout](#layout) | [Tecnologias Estudadas](#tecnologias-estudadas) | [Funcionalidades](#funcionalidades) </p>
-  
+<p align="center">
+  <a href="#dizzy-sobre">Sobre</a> |
+  <a href="#dizzy-layout">Layout</a> |
+  <a href="#dizzy-tecnologias-estudadas">Tecnologias Estudadas</a> |
+  <a href="#dizzy-funcionalidades">Funcionalidades</a> |  
+  </p>
 
-## Sobre
+### <p align="center"> [Sobre](#:small_blue_diamond:sobre) | [Layout](#layout) | [Tecnologias Estudadas](#tecnologias-estudadas) | [Funcionalidades](#funcionalidades) </p>
+  
+## :dizzy: **Sobre**
 
 Nesse projeto, após assistir as aulas do Bootcamp, foi solicitado que fizéssemos um clone da página principal do serviço de streaming **Netflix**.
 
@@ -28,7 +35,7 @@ Irei ainda aprimorar essa página com várias categorias, bem como é a página 
 
 ---
 
-## Layout
+## :dizzy: **Layout**
 
 ### Você pode acessar o projeto clicando <a href="https://vaniamesquita.me/clone-netflix/" target="_blank">aqui</a> 👈
 <br>
@@ -54,7 +61,7 @@ Irei ainda aprimorar essa página com várias categorias, bem como é a página 
  <br>
 
 
-## Tecnologias Estudadas
+## :dizzy: **Tecnologias Estudadas**
 
 1. **HTML5**
 2. **CSS3**
@@ -63,7 +70,7 @@ Irei ainda aprimorar essa página com várias categorias, bem como é a página 
    
 ---
 
-## Funcionalidades
+## :dizzy: **Funcionalidades**
 
    - [x] *Clone página inicial Netflix*
    - [x] *Carrossel com fotos utilizando pluggin jQuery*
@@ -73,7 +80,7 @@ Irei ainda aprimorar essa página com várias categorias, bem como é a página 
    - [ ] *Categoria: Recomendados*
    - [ ] *Categoria: Adicionados recentemente*
 
-## 👩🏻‍💻 Autora
+## 👩🏻‍💻 **Autora**
 
 <a href="https://github.com/vaniamesquita"> <img src="https://avatars.githubusercontent.com/u/70303394?v=4" width="60px;" alt="vaniamesquita"/>
   
