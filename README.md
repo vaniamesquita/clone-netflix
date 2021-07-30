@@ -12,15 +12,14 @@
 <br>
 
 <p align="center">
-  <a href="#dizzy-sobre">Sobre</a> |
+  <a href="#small_blue_diamond-sobre">Sobre</a> |
   <a href="#dizzy-layout">Layout</a> |
   <a href="#dizzy-tecnologias-estudadas">Tecnologias Estudadas</a> |
   <a href="#dizzy-funcionalidades">Funcionalidades</a> |  
   </p>
 
-### <p align="center"> [Sobre](#:small_blue_diamond:sobre) | [Layout](#layout) | [Tecnologias Estudadas](#tecnologias-estudadas) | [Funcionalidades](#funcionalidades) </p>
   
-## :dizzy: **Sobre**
+## 	:small_blue_diamond: **Sobre**
 
 Nesse projeto, após assistir as aulas do Bootcamp, foi solicitado que fizéssemos um clone da página principal do serviço de streaming **Netflix**.
 
