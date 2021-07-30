@@ -10,10 +10,10 @@
 <p align="center">Projeto 2 do Bootcamp de HTML Web Developer da escola de programação <a href="https://vaniamesquita.me/hora-do-dia/" target="_blank">Digital Innovation One </a></p>
 <br>
 
-### <p align="center"> [Sobre](#sobre) | [Layout](#layout) | [Tecnologias Estudadas](#tecnologias-estudadas) | [Funcionalidades](#funcionalidades) </p>
+### <p align="center"> [Sobre](https://github.com/vaniamesquita/clone-netflix/blob/main/README.md#sobre) | [Layout](#layout) | [Tecnologias Estudadas](#tecnologias-estudadas) | [Funcionalidades](#funcionalidades) </p>
   
 
-## Sobre
+## :small_blue_diamond: Sobre
 
 Nesse projeto, após assistir as aulas do Bootcamp, foi solicitado que fizéssemos um clone da página principal do serviço de streaming **Netflix**.
 
