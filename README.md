@@ -13,7 +13,7 @@
 ### <p align="center"> [Sobre](#sobre) | [Layout](#layout) | [Tecnologias Estudadas](#tecnologias-estudadas) | [Funcionalidades](#funcionalidades) </p>
   
 
-## Sobre 🔹
+## Sobre
 
 Nesse projeto, após assistir as aulas do Bootcamp, foi solicitado que fizéssemos um clone da página principal do serviço de streaming **Netflix**.
 
@@ -28,7 +28,7 @@ Irei ainda aprimorar essa página com várias categorias, bem como é a página 
 
 ---
 
-## Layout 🔹
+## Layout
 
 ### Você pode acessar o projeto clicando <a href="https://vaniamesquita.me/clone-netflix/" target="_blank">aqui</a> 👈
 <br>
@@ -53,7 +53,7 @@ Irei ainda aprimorar essa página com várias categorias, bem como é a página 
  </table>
  <br>
 
-## 🔹 Tecnologias Estudadas
+## Tecnologias Estudadas
 
 1. **HTML5**
 2. **CSS3**
@@ -62,7 +62,7 @@ Irei ainda aprimorar essa página com várias categorias, bem como é a página 
    
 ---
 
-## 🔹 Funcionalidades
+## Funcionalidades
 
    - [x] *Clone página inicial Netflix*
    - [x] *Carrossel com fotos utilizando pluggin jQuery*
