@@ -10,7 +10,7 @@
 <p align="center">Projeto 2 do Bootcamp de HTML Web Developer da escola de programação <a href="https://vaniamesquita.me/hora-do-dia/" target="_blank">Digital Innovation One </a></p>
 <br>
 
-### <p align="center"> [Sobre](#sobre) | [Layout](#layout) | [Tecnologias Estudadas](#tecnologias-estudadas) | [Funcionalidades](#funcionalidades) </p>
+### <p align="center"> [Sobre](#🔹 sobre) | [Layout](#layout) | [Tecnologias Estudadas](#tecnologias-estudadas) | [Funcionalidades](#funcionalidades) </p>
   
 
 ## 🔹 Sobre 
