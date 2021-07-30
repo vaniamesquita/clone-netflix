@@ -13,9 +13,9 @@
 
 <p align="center">
   <a href="#small_blue_diamond-sobre">Sobre</a> |
-  <a href="#dizzy-layout">Layout</a> |
-  <a href="#dizzy-tecnologias-estudadas">Tecnologias Estudadas</a> |
-  <a href="#dizzy-funcionalidades">Funcionalidades</a> |  
+  <a href="#small_blue_diamond-layout">Layout</a> |
+  <a href="#small_blue_diamond-tecnologias-estudadas">Tecnologias Estudadas</a> |
+  <a href="#small_blue_diamond-funcionalidades">Funcionalidades</a> |  
   </p>
 
   
@@ -34,7 +34,7 @@ Irei ainda aprimorar essa página com várias categorias, bem como é a página 
 
 ---
 
-## :dizzy: **Layout**
+## :small_blue_diamond: **Layout**
 
 ### Você pode acessar o projeto clicando <a href="https://vaniamesquita.me/clone-netflix/" target="_blank">aqui</a> 👈
 <br>
@@ -60,7 +60,7 @@ Irei ainda aprimorar essa página com várias categorias, bem como é a página 
  <br>
 
 
-## :dizzy: **Tecnologias Estudadas**
+## :small_blue_diamond: **Tecnologias Estudadas**
 
 1. **HTML5**
 2. **CSS3**
@@ -69,7 +69,7 @@ Irei ainda aprimorar essa página com várias categorias, bem como é a página 
    
 ---
 
-## :dizzy: **Funcionalidades**
+## :small_blue_diamond: **Funcionalidades**
 
    - [x] *Clone página inicial Netflix*
    - [x] *Carrossel com fotos utilizando pluggin jQuery*
