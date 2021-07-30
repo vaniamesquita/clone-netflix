@@ -53,7 +53,8 @@ Irei ainda aprimorar essa página com várias categorias, bem como é a página 
  </table>
  <br>
 
-## :small_blue_diamond: Tecnologias Estudadas
+:small_blue_diamond: 
+## Tecnologias Estudadas
 
 1. **HTML5**
 2. **CSS3**
