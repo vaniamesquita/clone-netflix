@@ -74,7 +74,7 @@ Irei ainda aprimorar essa página com várias categorias, bem como é a página 
    - [x] *Carrossel com fotos utilizando pluggin jQuery*
    - [x] *Página responsiva*
    - [x] *Categoria: Assistir novamente*
-   - [ ] *Categoria: Minha Lista*
+   - [x] *Categoria: Minha Lista*
    - [ ] *Categoria: Recomendados*
    - [ ] *Categoria: Adicionados recentemente*
 
