@@ -1,13 +1,13 @@
 
 
-  <p align="center"> <img src="https://vaniamesquita.me/clone-netflix/img/logo3.png" alt="logo-vaniaflix" width="300"> </p>
+  <p align="center"> <img src="https://vaniaflix.netlify.app/img/logo3.png" alt="logo-vaniaflix" width="300"> </p>
 
 <p align="center"><img src="img/logo.png"alt="logo-netflix" width="100"> </p> 
 
 <br>
      
 
-<p align="center">Projeto 2 do Bootcamp de HTML Web Developer da escola de programação <a href="https://vaniamesquita.me/hora-do-dia/" target="_blank">Digital Innovation One </a></p>
+<p align="center">Projeto 2 do Bootcamp de HTML Web Developer da escola de programação Digital Innovation One </p>
 <br>
 
 <p align="center">
@@ -29,13 +29,13 @@ Para a criação do carrossel com a imagem dos filmes, foi feito a integração 
 Irei ainda aprimorar essa página com várias categorias, bem como é a página inicial do Netflix.
 
 
-#### Acesse o site completo: <a href="https://vaniamesquita.me/clone-netflix/" target="_blank">vaniamesquita.me/clone-netflix</a> 
+#### Acesse o site completo: <a href="https://vaniaflix.netlify.app" target="_blank">https://vaniaflix.netlify.app</a> 
 
 ---
 
 ## :small_blue_diamond: **Layout**
 
-### Você pode acessar o projeto clicando <a href="https://vaniamesquita.me/clone-netflix/" target="_blank">aqui</a> 👈
+### Você pode acessar o projeto clicando <a href="https://vaniaflix.netlify.app" target="_blank">aqui</a> 👈
 <br>
 
  #### <p align="center">| Layout Web |</p>
